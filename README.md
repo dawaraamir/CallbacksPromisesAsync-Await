@@ -35,6 +35,7 @@ firstFunction(args, function() {
 <br>
 3. Rejected (Operation is unsuccessful)
 <br>
+<br>
 Example:
 <br>
 
